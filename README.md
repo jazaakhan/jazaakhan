@@ -4,7 +4,7 @@ Passionate about building scalable web applications and exploring emerging techn
 
 ---
 
-## 🛠️ Technical Skills
+**🛠️ Technical Skills**
 
 **Languages**
 
@@ -37,23 +37,23 @@ Passionate about building scalable web applications and exploring emerging techn
 
 ---
 
-## 📂 Featured Projects
+**📂 Featured Projects**
 
-### 🐙 [GitHub MERN App](https://github.com/jazaakhan/github_mern_app)
+🐙 [GitHub MERN App](https://github.com/jazaakhan/github_mern_app)
 A full-stack MERN application with GitHub OAuth 2.0 authentication. Users can log in via GitHub and view their profile data — built with Express 5, Passport.js, MongoDB, and React.
 
 **Stack:** MongoDB · Express · React · Node.js · Passport.js
 
 ---
 
-### ✈️ [Travel Guide](https://github.com/jazaakhan/TravelGuide)
+✈️ [Travel Guide](https://github.com/jazaakhan/TravelGuide)
 An e-commerce travel planning platform that provides users with information on destinations, hotels, and cab services — with a complete booking flow.
 
 **Stack:** PHP · HTML · CSS · MySQL
 
 ---
 
-## 🤝 Let's Connect
+**🤝 Let's Connect**
 
 I am actively seeking full-stack or frontend developer roles. I'm a fast learner who brings both technical depth and a genuine enthusiasm for building things that matter.
 
