@@ -1,5 +1,3 @@
-# Jazaa Khan
-
 **Full-Stack Developer · Computer Science Graduate**
 
 Passionate about building scalable web applications and exploring emerging technologies. I enjoy working across the full stack — from designing clean REST APIs to crafting responsive frontend experiences.
