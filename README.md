@@ -1,10 +1,10 @@
-**Full-Stack Developer · Computer Science Graduate**
+## Full-Stack Developer · Computer Science Graduate
 
 Passionate about building scalable web applications and exploring emerging technologies. I enjoy working across the full stack — from designing clean REST APIs to crafting responsive frontend experiences.
 
 ---
 
-**🛠️ Technical Skills**
+## 🛠️ Technical Skills
 
 **Languages**
 
@@ -37,7 +37,7 @@ Passionate about building scalable web applications and exploring emerging techn
 
 ---
 
-**📂 Featured Projects**
+## 📂 Featured Projects
 
 🐙 [GitHub MERN App](https://github.com/jazaakhan/github_mern_app)
 A full-stack MERN application with GitHub OAuth 2.0 authentication. Users can log in via GitHub and view their profile data — built with Express 5, Passport.js, MongoDB, and React.
@@ -53,7 +53,7 @@ An e-commerce travel planning platform that provides users with information on d
 
 ---
 
-**🤝 Let's Connect**
+## 🤝 Let's Connect
 
 I am actively seeking full-stack or frontend developer roles. I'm a fast learner who brings both technical depth and a genuine enthusiasm for building things that matter.
 
