@@ -58,5 +58,5 @@ An e-commerce travel planning platform that provides users with information on d
 I am actively seeking full-stack or frontend developer roles. I'm a fast learner who brings both technical depth and a genuine enthusiasm for building things that matter.
 
 [![GitHub](https://img.shields.io/badge/GitHub-jazaakhan-181717?style=flat-square&logo=github)](https://github.com/jazaakhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jazaakhan02-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jazaakhan02)
 
-> *"Exploring the world of code, one line at a time."*
