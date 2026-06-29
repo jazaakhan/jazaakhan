@@ -55,29 +55,6 @@ An e-commerce travel planning platform that provides users with information on d
 
 ---
 
-### 🛒 [JSP Servlet E-Commerce Website](https://github.com/jazaakhan/jsp-servlet-ecommerce-website)
-A fully functional e-commerce web application built with Java EE technologies including JSP and Servlets — covering product listing, cart management, and order processing.
-
-**Stack:** Java · JSP · Servlets · HTML
-
----
-
-### 💼 [JPMC Forage — Advanced Software Engineering](https://github.com/jazaakhan/forage-midas)
-Completed JP Morgan Chase's Advanced Software Engineering virtual experience — working with real-world financial software engineering tasks and tools.
-
-**Stack:** Java
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jazaakhan&show_icons=true&theme=default&hide_border=true" alt="Jazaa's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazaakhan&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="150"/>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I am actively seeking full-stack or frontend developer roles. I'm a fast learner who brings both technical depth and a genuine enthusiasm for building things that matter.
