@@ -57,8 +57,9 @@ A full-stack MERN application with GitHub OAuth 2.0 authentication. Users can lo
 
 ---
 
-### 🏋️ [AI Fitness Trainer](https://github.com/jazaakhan/ai_fitnesstrainer) · [Live Demo](https://ai-fitnesstrainer-kappa.vercel.app)
+🏋️ [AI Fitness Trainer](https://github.com/jazaakhan/ai_fitnesstrainer) 
 An intelligent, voice-enabled fitness coaching app powered by AI. Features real-time data syncing, GitHub OAuth, and hands-free voice interaction — built with Next.js, Convex, Clerk, and Google Generative AI.
+[Live Demo](https://ai-fitnesstrainer-kappa.vercel.app)
 
 **Stack:** Next.js · TypeScript · Convex · Clerk · Google AI · OpenAI · Vapi AI · Tailwind CSS
 
